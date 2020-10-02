@@ -124,7 +124,7 @@ var tourismPlaceList = [
   TourismPlace(
       name: 'Ketoprak',
       location: 'Cibitung Ilir Pamijahan',
-      description: 'Silahkan pesan sekarang juga !!   Stock Terbatas ,  Ketoprak bi eti terbuat dari bahan bahan yang sangat fresh jadi di jamin aman dan sehat.    Contact Us : 085716101055 ',
+      description: 'Silahkan pesan sekarang juga !!   Stock Terbatas ,  Ketoprak bi eti terbuat dari bahan bahan yang sangat fresh jadi di jamin aman dan sehat.    Contact Us : - ',
       openDays: 'Open Everyday',
       openTime: '09:00 - 17:00',
       ticketPrice: 'Rp. 5000',
